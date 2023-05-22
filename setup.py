@@ -15,7 +15,7 @@ setup(
             'pdf417gen>=0.6.0',
             'suds-jurko',
             'urllib3',
-            'requests==2.21.0',
+            'requests==2.31.0',
         ],
         author='Daniel Santibáñez Polanco',
         author_email='dansanti@gmail.com',
