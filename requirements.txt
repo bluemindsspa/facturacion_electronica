@@ -5,4 +5,4 @@ pytz
 urllib3
 pdf417gen>=0.6.0
 suds-jurko
-requests==2.21.0
+requests==2.31.0
